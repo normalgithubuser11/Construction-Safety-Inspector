@@ -17,6 +17,11 @@
 
 **Language Used: JAVA**  
 
+Main Features:
+1. Safety Inspection via pre-trained YOLO26 model
+2. I/O Handling: All detections and violation of safety is detected in a log file (txt file) in the logs folder
+3. Control Buttons to turn on and off the webcam
+
 **References:**  
 1. Pre-trained model used for the time being by [yihong1120](https://huggingface.co/yihong1120/Construction-Hazard-Detection)
 2. Ultralytics Model: [Yolo26](https://github.com/ultralytics)
