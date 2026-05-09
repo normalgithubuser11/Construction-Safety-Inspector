@@ -1,4 +1,4 @@
-### ** AI-POWERED CONSTRUCTION SAFETY INSPECTOR**
+### **AI-POWERED CONSTRUCTION SAFETY INSPECTOR**
 
 > Main Gist: It's a Java Project that utilizes Webcam detection using a pre-trained Yolo26 Model (by yihong1120)  
   
