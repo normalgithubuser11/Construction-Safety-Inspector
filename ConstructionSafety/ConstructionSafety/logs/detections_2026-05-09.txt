@@ -1,0 +1,259 @@
+==========================================================
+   CONSTRUCTION SAFETY - DETECTION LOG
+   Started: 2026-05-09 21:11:09
+==========================================================
+
+TIMESTAMP              | LABEL           | CONF(%)  | BOUNDING BOX
+------------------------------------------------------------
+[2026-05-09 21:11:09] Webcam session started. Detection active.
+2026-05-09 21:11:09    | Person          | 82,1     | [x=40, y=35, w=599, h=444]
+2026-05-09 21:11:09    | NO-Hardhat      | 76,7     | [x=234, y=43, w=207, h=155]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:09    | NO-Mask         | 55,4     | [x=254, y=250, w=168, h=125]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:09    | NO-Hardhat      | 82,1     | [x=236, y=48, w=201, h=145]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:09    | Person          | 80,6     | [x=40, y=42, w=599, h=437]
+2026-05-09 21:11:09    | NO-Mask         | 66,4     | [x=251, y=254, w=170, h=121]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:09    | NO-Safety Vest  | 52,9     | [x=104, y=347, w=524, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:09    | Person          | 87,4     | [x=41, y=43, w=596, h=436]
+2026-05-09 21:11:09    | NO-Hardhat      | 85,4     | [x=234, y=49, w=201, h=145]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:09    | NO-Mask         | 73,3     | [x=252, y=255, w=167, h=122]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:09    | NO-Safety Vest  | 69,5     | [x=104, y=347, w=526, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:10    | NO-Hardhat      | 84,4     | [x=222, y=52, w=197, h=135]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:10    | NO-Mask         | 79,2     | [x=236, y=239, w=174, h=125]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:10    | NO-Safety Vest  | 68,1     | [x=104, y=346, w=529, h=133]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:10    | Person          | 47,5     | [x=42, y=47, w=597, h=432]
+2026-05-09 21:11:10    | Person          | 28,9     | [x=38, y=46, w=600, h=433]
+
+2026-05-09 21:11:11    | Person          | 89,6     | [x=39, y=48, w=600, h=431]
+2026-05-09 21:11:11    | NO-Hardhat      | 85,7     | [x=221, y=54, w=196, h=134]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:11    | NO-Mask         | 80,4     | [x=236, y=239, w=175, h=126]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:11    | NO-Safety Vest  | 68,5     | [x=101, y=346, w=533, h=133]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:12    | Person          | 89,0     | [x=28, y=46, w=611, h=433]
+2026-05-09 21:11:12    | NO-Hardhat      | 84,7     | [x=215, y=52, w=202, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Safety Vest  | 69,5     | [x=89, y=346, w=546, h=133]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Mask         | 60,3     | [x=234, y=239, w=172, h=125]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Mask         | 59,5     | [x=233, y=239, w=172, h=125]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:12    | Person          | 88,9     | [x=36, y=47, w=603, h=432]
+2026-05-09 21:11:12    | NO-Hardhat      | 85,7     | [x=216, y=53, w=200, h=136]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Mask         | 77,6     | [x=232, y=241, w=169, h=123]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Safety Vest  | 70,0     | [x=100, y=347, w=535, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:12    | Person          | 87,6     | [x=36, y=48, w=603, h=431]
+2026-05-09 21:11:12    | NO-Hardhat      | 85,2     | [x=215, y=53, w=201, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Mask         | 68,1     | [x=231, y=239, w=171, h=125]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Safety Vest  | 64,7     | [x=98, y=346, w=538, h=133]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:12    | NO-Mask         | 46,3     | [x=233, y=240, w=171, h=125]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:13    | Person          | 88,3     | [x=33, y=46, w=606, h=433]
+2026-05-09 21:11:13    | NO-Hardhat      | 84,6     | [x=215, y=52, w=201, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:13    | NO-Mask         | 78,7     | [x=232, y=241, w=168, h=123]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:13    | NO-Safety Vest  | 67,2     | [x=94, y=347, w=541, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:13    | Person          | 88,4     | [x=30, y=47, w=609, h=432]
+2026-05-09 21:11:13    | NO-Hardhat      | 84,8     | [x=217, y=53, w=199, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:13    | NO-Mask         | 70,2     | [x=233, y=241, w=169, h=123]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:13    | NO-Safety Vest  | 65,8     | [x=91, y=347, w=545, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:13    | NO-Mask         | 41,4     | [x=235, y=242, w=169, h=124]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:13    | Person          | 88,5     | [x=30, y=47, w=609, h=432]
+2026-05-09 21:11:13    | NO-Hardhat      | 84,9     | [x=216, y=53, w=200, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:13    | NO-Mask         | 76,1     | [x=233, y=242, w=168, h=123]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:13    | NO-Safety Vest  | 66,6     | [x=86, y=345, w=549, h=134]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:14    | Person          | 88,3     | [x=28, y=47, w=611, h=432]
+2026-05-09 21:11:14    | NO-Hardhat      | 85,2     | [x=217, y=53, w=198, h=135]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:14    | NO-Mask         | 68,8     | [x=234, y=242, w=171, h=122]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:14    | NO-Safety Vest  | 66,2     | [x=89, y=347, w=546, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:14    | NO-Mask         | 41,4     | [x=232, y=242, w=170, h=122]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:14    | Person          | 88,8     | [x=36, y=49, w=603, h=430]
+2026-05-09 21:11:14    | NO-Hardhat      | 85,9     | [x=218, y=54, w=198, h=135]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:14    | NO-Mask         | 80,8     | [x=234, y=242, w=170, h=123]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:14    | NO-Safety Vest  | 66,7     | [x=97, y=346, w=538, h=133]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:15    | Person          | 88,8     | [x=34, y=47, w=605, h=432]
+2026-05-09 21:11:15    | NO-Hardhat      | 85,3     | [x=217, y=53, w=199, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:15    | NO-Mask         | 71,0     | [x=232, y=241, w=169, h=123]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:15    | NO-Safety Vest  | 68,8     | [x=92, y=347, w=543, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:15    | NO-Mask         | 43,6     | [x=234, y=241, w=169, h=124]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:15    | Person          | 89,6     | [x=28, y=47, w=610, h=432]
+2026-05-09 21:11:15    | NO-Hardhat      | 85,2     | [x=217, y=52, w=199, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:15    | NO-Mask         | 78,9     | [x=230, y=239, w=174, h=126]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:15    | NO-Safety Vest  | 68,1     | [x=89, y=347, w=547, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:16    | Person          | 86,3     | [x=15, y=47, w=624, h=432]
+2026-05-09 21:11:16    | NO-Mask         | 76,9     | [x=209, y=244, w=173, h=124]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:16    | NO-Hardhat      | 76,2     | [x=187, y=54, w=200, h=141]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:16    | NO-Safety Vest  | 59,5     | [x=69, y=343, w=567, h=136]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:16    | NO-Hardhat      | 39,8     | [x=187, y=55, w=202, h=140]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:16    | Person          | 86,7     | [x=18, y=45, w=621, h=434]
+2026-05-09 21:11:16    | NO-Hardhat      | 84,3     | [x=174, y=53, w=205, h=141]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:16    | NO-Mask         | 76,2     | [x=204, y=241, w=174, h=126]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:16    | NO-Safety Vest  | 53,3     | [x=73, y=341, w=564, h=138]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:16    | Person          | 87,7     | [x=12, y=42, w=626, h=437]
+2026-05-09 21:11:16    | NO-Mask         | 77,1     | [x=201, y=237, w=174, h=128]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:16    | NO-Hardhat      | 75,5     | [x=167, y=51, w=209, h=146]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:16    | NO-Safety Vest  | 57,0     | [x=62, y=340, w=576, h=139]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:17    | Person          | 87,1     | [x=4, y=24, w=635, h=455]
+2026-05-09 21:11:17    | NO-Hardhat      | 75,4     | [x=153, y=40, w=228, h=162]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Mask         | 71,1     | [x=204, y=230, w=180, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Safety Vest  | 48,1     | [x=35, y=335, w=603, h=144]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:17    | Person          | 86,7     | [x=5, y=35, w=634, h=444]
+2026-05-09 21:11:17    | NO-Hardhat      | 77,2     | [x=163, y=46, w=216, h=149]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Mask         | 57,3     | [x=208, y=231, w=178, h=129]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Safety Vest  | 51,5     | [x=55, y=338, w=582, h=141]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Mask         | 35,1     | [x=205, y=230, w=180, h=131]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:17    | Person          | 85,2     | [x=8, y=42, w=631, h=437]
+2026-05-09 21:11:17    | NO-Hardhat      | 78,7     | [x=173, y=50, w=206, h=143]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Mask         | 73,5     | [x=210, y=232, w=177, h=128]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Safety Vest  | 53,4     | [x=55, y=340, w=582, h=139]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:17    | Person          | 83,1     | [x=7, y=37, w=632, h=442]
+2026-05-09 21:11:17    | NO-Hardhat      | 73,2     | [x=179, y=47, w=208, h=145]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Mask         | 67,9     | [x=217, y=232, w=175, h=130]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Safety Vest  | 46,1     | [x=55, y=340, w=582, h=139]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Hardhat      | 25,7     | [x=179, y=47, w=210, h=144]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:17    | Person          | 86,4     | [x=10, y=41, w=627, h=438]
+2026-05-09 21:11:17    | NO-Hardhat      | 81,4     | [x=188, y=49, w=201, h=144]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Mask         | 71,5     | [x=216, y=232, w=178, h=128]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:17    | NO-Safety Vest  | 52,0     | [x=70, y=342, w=566, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:18    | Person          | 83,4     | [x=7, y=30, w=631, h=449]
+2026-05-09 21:11:18    | NO-Mask         | 67,7     | [x=221, y=232, w=175, h=132]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:18    | NO-Hardhat      | 67,4     | [x=184, y=40, w=211, h=156]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:18    | NO-Safety Vest  | 40,9     | [x=51, y=340, w=585, h=139]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:18    | Person          | 87,5     | [x=12, y=47, w=626, h=432]
+2026-05-09 21:11:18    | NO-Hardhat      | 81,2     | [x=195, y=52, w=197, h=141]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:18    | NO-Mask         | 71,6     | [x=215, y=241, w=175, h=124]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:18    | NO-Safety Vest  | 52,2     | [x=72, y=342, w=564, h=137]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:19    | NO-Hardhat      | 86,8     | [x=211, y=57, w=196, h=135]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:19    | Person          | 86,7     | [x=29, y=51, w=610, h=428]
+2026-05-09 21:11:19    | NO-Mask         | 76,3     | [x=217, y=247, w=169, h=118]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:19    | NO-Safety Vest  | 68,6     | [x=87, y=346, w=549, h=133]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:19    | Person          | 87,6     | [x=32, y=53, w=607, h=426]
+2026-05-09 21:11:19    | NO-Hardhat      | 86,6     | [x=207, y=59, w=195, h=135]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:19    | NO-Mask         | 76,4     | [x=217, y=246, w=171, h=119]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:19    | NO-Safety Vest  | 67,9     | [x=94, y=345, w=541, h=134]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:20    | NO-Hardhat      | 83,6     | [x=181, y=55, w=207, h=146]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:20    | NO-Mask         | 71,8     | [x=212, y=245, w=171, h=123]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:20    | Person          | 66,5     | [x=12, y=46, w=626, h=433]
+2026-05-09 21:11:20    | NO-Safety Vest  | 55,6     | [x=72, y=341, w=564, h=138]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+2026-05-09 21:11:20    | Person          | 85,7     | [x=13, y=47, w=624, h=432]
+2026-05-09 21:11:20    | NO-Hardhat      | 83,0     | [x=181, y=55, w=207, h=143]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:20    | NO-Mask         | 72,9     | [x=213, y=246, w=170, h=122]
+                        ⚠️  SAFETY VIOLATION DETECTED
+2026-05-09 21:11:20    | NO-Safety Vest  | 54,7     | [x=67, y=340, w=570, h=139]
+                        ⚠️  SAFETY VIOLATION DETECTED
+
+
+------------------------------------------------------------
+[2026-05-09 21:11:24] Session ended.
+==========================================================
